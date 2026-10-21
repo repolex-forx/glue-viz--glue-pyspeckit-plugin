@@ -1,0 +1,11 @@
+{
+  "org": "glue-viz",
+  "repo": "glue-pyspeckit-plugin",
+  "versions": [
+    {
+      "commit": "cf28d9e504ab95baa2f0db10abbc1971dc641250",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:36:36.472781+00:00"
+    }
+  ]
+}
