@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "glue-viz",
+  "repo": "glue-pyspeckit-plugin",
+  "versions": [
+    {
+      "commit": "cf28d9e504ab95baa2f0db10abbc1971dc641250",
+      "parsed_at": "2026-10-21T21:33:44.444629+00:00",
+      "filetree": "filetree/cf28d9e504ab95baa2f0db10abbc1971dc641250.nq.gz",
+      "blobs": [
+        "blob/253eb77282c7f1e8e5089b1166c154bcf5c4845d.nq.gz",
+        "blob/078018f66f89413d99b5a720d26800e5f6d94f4e.nq.gz",
+        "blob/774c27955c31e1bb148af899146f48e1449255e6.nq.gz",
+        "blob/07f710935ec3c8e9d048042ef387cecb66c26e44.nq.gz",
+        "blob/e783b48eb8fe930f185773b1398dae9caa9235fb.nq.gz",
+        "blob/82feafa2b552e1b5bec6d6a5e8bc3c98ff0f71e0.nq.gz",
+        "blob/b28d0543191eba52daeb06803c2f2bc734d04986.nq.gz",
+        "blob/5e1dfc4391518fdc90f6191c4ff8ce3b81c7c1d8.nq.gz",
+        "blob/c90f84ee8c74c4df0f46771b63c048af44b8fbb1.nq.gz",
+        "blob/402f86e9b58b0c2fc673ecf6362700cc9469019b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
